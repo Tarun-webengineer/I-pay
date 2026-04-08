@@ -26,11 +26,24 @@ This project is not just an app — it's a system design exercise to build a pro
 
 ## 📅 Development Log
 
+---
+
 ### Day 1
 - Project initialized
 - Folder structure planned
 
 ---
+
+### Day 2
+- Navbar completed 
+- New sign up button
+
+---
+
+### Day 3
+- Hero section completed 
+- I still don't have any images (thinking of making with AI)
+
 
 ## 🚧 Status
 Currently under active development.
