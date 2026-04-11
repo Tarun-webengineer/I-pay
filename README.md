@@ -44,6 +44,18 @@ This project is not just an app — it's a system design exercise to build a pro
 - Hero section completed 
 - I still don't have any images (thinking of making with AI)
 
+---
+
+### Day 4
+- Features section completed
+- Still not have any image 
+
+---
+
+### Day 5 
+- New cards are made 
+- You can check the deatils of the payments with these cards
+
 
 ## 🚧 Status
 Currently under active development.
