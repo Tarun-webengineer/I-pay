@@ -56,6 +56,24 @@ This project is not just an app — it's a system design exercise to build a pro
 - New cards are made 
 - You can check the deatils of the payments with these cards
 
+---
+### Day 6
+- Main Features section is made today 
+- I think it will be needed more rhan expected
+
+---
+### Day 7
+- Founder's section is complete 
+- We are in the final section mostly 
+
+---
+### Day 8 
+- Footer is complete 
+- Html skeleton is complete 
+
+
+---
+
 
 ## 🚧 Status
 Currently under active development.
